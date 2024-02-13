@@ -29,9 +29,7 @@
 <p align="center">
   <a href="/"><img src="https://img.shields.io/badge/Tech%20Blog-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=/"/></a>&nbsp
   <a href="https://www.instagram.com/ruah0807/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/ruah0807/"/></a>&nbsp
-  <a href="https://open.kakao.com/o/Rua.na">
-        <img src="https://img.shields.io/badge/
-        KakaoTalk-FFCD00?style=for-the-badge&logoColor=black&logo=KakaoTalk"> 
+  <a href="https://open.kakao.com/o/Rua.na"><img src="https://img.shields.io/badge/KakaoTalk-FFCD00?style=for-the-badge&logoColor=black&logo=KakaoTalk"> 
     </a>&nbsp
   <a href="mailto:kimhk0315@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=kimhk0315@gmail.com"/></a>
 </p>
