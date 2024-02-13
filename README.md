@@ -1,10 +1,6 @@
 ###  hello, I'm Ruah 👋
 
-https://capsule-render.vercel.app/api?
-type=rounded&color=timeGradient&text=Welcome%20to%20Bi's%20GitHub%20👋
-&animation=twinkling&fontSize=40&fontAlignY=50&fontAlign=50&height=180
-
-
+![header](https://capsule-render.vercel.app/api?text=Hello%World!&fontSize=20&rotate=-30)
 
 ![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=Welcome%20ruah0807&fontSize=90)
 
