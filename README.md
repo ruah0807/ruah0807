@@ -1,8 +1,9 @@
+
+![header](https://capsule-render.vercel.app/api?type=waving&&color=timeGradient&height=200&text=Welcome&fontAlign=70&strokeWidth=1&fontSize=50)
+
 ###  hello, I'm Ruah 👋
 
-<p align="center">
-![header](https://capsule-render.vercel.app/api?type=waving&&color=timeGradient&height=200&text=Welcome&fontAlign=70&strokeWidth=1&fontSize=50)
-</p>
+
 
 
 
@@ -29,9 +30,13 @@
 <br/>
 <br/>
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
+
 <p align="center">
 <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter&count_bg=%2376318E&title_bg=%23D5A5A5&icon=quarkus.svg&icon_color=%23E5E4E4&title=hits&edge_flat=false"/></a>
 </p>
+
+
 
 
 <!--
