@@ -1,8 +1,8 @@
 ###  hello, I'm Ruah 👋
 
-
+<p align="center">
 ![header](https://capsule-render.vercel.app/api?type=waving&&color=timeGradient&height=200&text=Welcome&fontAlign=70&strokeWidth=1&fontSize=50)
-
+</p>
 
 
 
