@@ -1,7 +1,7 @@
 ###  hello, I'm Ruah 👋
 
 
-![header](https://capsule-render.vercel.app/api?type=waving&height=200&text=Ruah's%Account&fontAlign=85&strokeWidth=1&fontSize=50)
+![header](https://capsule-render.vercel.app/api?type=waving&height=200&text=Ruah's%Account&fontAlign=70&strokeWidth=1&fontSize=50)
 
 
 <!--
