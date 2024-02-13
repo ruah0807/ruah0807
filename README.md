@@ -1,7 +1,7 @@
 ###  hello, I'm Ruah 👋
 
 
-![header](https://capsule-render.vercel.app/api?type=waving&height=200&text=루아계정&fontAlign=70&strokeWidth=1&fontSize=50)
+![header](https://capsule-render.vercel.app/api?type=waving&height=200&text=루아계정&fontAlign=90&strokeWidth=1&fontSize=50)
 
 
 <!--
