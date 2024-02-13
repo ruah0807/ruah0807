@@ -3,6 +3,9 @@
 
 ###  hello, I'm Ruah 👋
 
+#### I woud like to be a best web developer 
+#### When I have an oppertunity that I work as a developer, I would try my best 
+
 
 
 
