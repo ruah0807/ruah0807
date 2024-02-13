@@ -4,7 +4,7 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&&color=timeGradient&height=200&text=Welcome&fontAlign=70&strokeWidth=1&fontSize=50)
 
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter&count_bg=%2376318E&title_bg=%23D5A5A5&icon=quarkus.svg&icon_color=%23E5E4E4&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+
 
 <h3 align="center">📚 Tech Stack 📚</h3>
 <p align="center">
@@ -25,6 +25,11 @@
   <a href="https://www.instagram.com/ruah0807/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/ruah0807/"/></a>&nbsp
   <a href="mailto:kimhk0315@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=kimhk0315@gmail.com"/></a>
 </p>
+
+<p align="center>
+<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter&count_bg=%2376318E&title_bg=%23D5A5A5&icon=quarkus.svg&icon_color=%23E5E4E4&title=hits&edge_flat=false"/></a>
+</p>
+
 
 <!--
 **ruah0807/ruah0807** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
