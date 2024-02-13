@@ -3,8 +3,10 @@
 
 ![header](https://capsule-render.vercel.app/api?type=waving&&color=timeGradient&height=200&text=Welcome&fontAlign=70&strokeWidth=1&fontSize=50)
 
- <a href="클릭시 이동할 링크" target="_blank"><img src="https://img.shields.io/badge/문자-색코드?style=flat-square&logo=이미지 이름&logoColor=white"/></a>
 
+<p align="center">
+  <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fhyeinisfree&count_bg=%2341B883&title_bg=%23CDC2C2&icon=github.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>
+</p>
 
 <h3 align="center">📚 Tech Stack 📚</h3>
 <p align="center">
