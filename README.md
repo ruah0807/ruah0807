@@ -47,10 +47,10 @@
 
 <br/>
 <br/>
-<p align="center">
+<div align="center">
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ruah0807&show_icons=true&theme=synthwave)
 <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fruah0807&count_bg=%2376318E&title_bg=%23D5A5A5&icon=quarkus.svg&icon_color=%23E5E4E4&title=hits&edge_flat=false"/></a>
-</p>
+</div>
 <!--
 **ruah0807/ruah0807** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
