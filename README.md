@@ -47,7 +47,6 @@
 
 <br/>
 <br/>
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ruah0807&show_icons=true&theme=synthwave)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ruah0807&show_icons=true&theme=synthwave)
 <br/>
