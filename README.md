@@ -3,14 +3,15 @@
 </div>
 
 <br/>
-
+<div align="center">
 ### Hello, I'm Ruah! 👋
-
-I'm passionate about becoming the best web developer. When I have the opportunity to work as a developer, I always strive to do my best.
-
+</div>
+<div align="center">
+I'm passionate about becoming the best web developer. <br/>When I have the opportunity to work as a developer, I always strive to do my best.
+</div>
 <br/>
 
-<h3>Tech Stack 📚</h3>
+<h3 align="center">Tech Stack 📚</h3>
 
 <div align="center">
   <h4>Frontend</h4>
@@ -38,7 +39,7 @@ I'm passionate about becoming the best web developer. When I have the opportunit
 <br/>
 <br/>
 
-<h3>Contact 📞</h3>
+<h3 align="center">Contact 📞</h3>
 
 <div align="center">
   <a href="#"><img src="https://img.shields.io/badge/Tech%20Blog-11B48A?style=flat-square&logo=Vimeo&logoColor=white"/></a>&nbsp
