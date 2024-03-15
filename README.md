@@ -34,6 +34,7 @@ I'm passionate about becoming the best web developer. <br/>When I have the oppor
   <img src="https://img.shields.io/badge/Mysql-E6B91E?style=flat-square&logo=MySql&logoColor=white" alt="MySQL"/> 
   <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=AmazonAWS&logoColor=white" alt="AWS"/> 
   <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white" alt="Docker"/> 
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=Flutter&logoColor=white" alt="Flutter"/> 
 </div>
 
 <br/>
