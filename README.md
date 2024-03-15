@@ -13,7 +13,6 @@
 <br/>
 
 <h3 align="center">Tech Stack 📚</h3>
----
 <p align="center">
   <!-- Frontend -->
    Frontend
@@ -39,7 +38,6 @@
 
 
 <h3 align="center">Contact 📞</h3>
----
 <p align="center">
   <a href="/"><img src="https://img.shields.io/badge/Tech%20Blog-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=/"/></a>&nbsp
   <a href="https://www.instagram.com/ruah0807/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/ruah0807/"/></a>&nbsp
