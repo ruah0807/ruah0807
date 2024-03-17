@@ -15,7 +15,7 @@
 
 I'm a junior developer who's grwoing up scary.<br/>
 I'm currently processing the tests through the some of framworks in Java program.<br/>
-And I always excited of my works.<br/>
+And I always excited of my work.<br/>
 I love coorporation and sharing concerns with people, and I have a lot of curiocity<br/>
 I have a passion to solve my business no matter what I got. <br/>
 When I have the opportunity to work as a developer, I always strive to do my best.
