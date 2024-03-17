@@ -10,9 +10,13 @@
 현재 자바를 중심으로 여러 프레임 워크를 통해 개발 테스트 진행중입니다.<br/>
 사람들과 고민하고 생각을 나눌 수 있는 협업을 좋아하고 호기심이 많으며,<br/>
 한번 맡은 역할을 무조건 해내야하는 열정😤을 지니고 있습니다.😊<br/>
-조금 부족할지라도 질문을 두려워하지 않고 에러를 해쳐 나가려 하는 것이 장점입니다.<br/>
 
-I'm passionate about becoming the best web developer. <br/>
+
+I'm a junior developer who's grwoing up scary.<br/>
+I'm currently processing the tests through the some of framworks in Java program.<br/>
+And I always excited of my works.<br/>
+I love coorporation and sharing concerns with people, and I have a lot of curiocity<br/>
+I have a passion to solve my business no matter what I got. <br/>
 When I have the opportunity to work as a developer, I always strive to do my best.
 </div>
 <br/>
