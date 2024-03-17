@@ -3,14 +3,15 @@
 </div>
 
 <br/>
-<div>
+
 ### Hello, I'm Ruah! 👋
-</div>
+<br>
+<div>
 안녕하세요 무섭게 성장하는 신입개발자 김루아입니다.🙂<br/>
 현재 자바를 중심으로 여러 프레임 워크를 통해 개발 테스트 진행중입니다.<br/>
 사람들과 고민하고 생각을 나눌 수 있는 협업을 좋아하고 호기심이 많으며,<br/>
 한번 맡은 역할을 무조건 해내야하는 열정😤을 지니고 있습니다.😊<br/>
-
+<br>
 
 I'm a junior developer who's grwoing up scary.<br/>
 I'm currently processing the tests through the some of framworks in Java program.<br/>
