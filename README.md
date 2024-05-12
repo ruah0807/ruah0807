@@ -2,7 +2,7 @@
 
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=slice&color=timeGradient&height=200&text=Welcome&fontAlign=70&strokeWidth=1&fontSize=50" alt="header">
+  <img src="https://capsule-render.vercel.app/api?type=slice&color=timeGradient&height=200&text=Welcome&fontAlign=70&strokeWidth=1&fontSize=30" alt="header">
 </div>
 
 <br/>
@@ -91,8 +91,6 @@ When I have the opportunity to work as a developer, I always strive to do my bes
 <br />
 
 
-[![Solved.ac
-프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=ruah0807)](https://solved.ac/ruah0807)
 
 
 
