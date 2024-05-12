@@ -73,8 +73,6 @@ When I have the opportunity to work as a developer, I always strive to do my bes
 <br/>
 <br/>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ruah0807&layout=compact)](https://github.com/ruah0807/github-readme-stats)
-
 
 
 
@@ -89,7 +87,12 @@ When I have the opportunity to work as a developer, I always strive to do my bes
 
 
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ruah0807&layout=compact)](https://github.com/ruah0807/github-readme-stats)
+<br />
 
+
+[![Solved.ac
+프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=ruah0807)](https://solved.ac/ruah0807)
 
 
 
