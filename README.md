@@ -1,9 +1,8 @@
-![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=capsule%20render&fontSize=90)
 
 
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=200&text=Welcome&fontAlign=70&strokeWidth=1&fontSize=50" alt="header">
+  <img src="https://capsule-render.vercel.app/api?type=slice&color=timeGradient&height=200&text=Welcome&fontAlign=70&strokeWidth=1&fontSize=50" alt="header">
 </div>
 
 <br/>
