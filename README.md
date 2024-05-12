@@ -73,10 +73,8 @@ When I have the opportunity to work as a developer, I always strive to do my bes
 <br/>
 <br/>
 
-<div align="center">
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ruah0807&layout=compact)](https://github.com/ruah0807/github-readme-stats)
 
-</div>
 
 
 
