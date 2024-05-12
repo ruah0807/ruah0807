@@ -2,7 +2,7 @@
 
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=slice&color=timeGradient&height=200&text=Welcome&fontAlign=50&strokeWidth=1&fontSize=30" alt="header">
+  <img src="https://capsule-render.vercel.app/api?type=slice&color=timeGradient&height=200&text=Welcome&strokeWidth=1&fontSize=30" alt="header">
 </div>
 
 <br/>
