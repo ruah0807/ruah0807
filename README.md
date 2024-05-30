@@ -15,7 +15,7 @@
 <br>
 <div>
 안녕하세요 무섭게 성장하는 신입개발자 김루아입니다.🙂<br/>
-현재 자바를 중심으로 여러 프레임 워크를 통해 개발 테스트 진행중입니다.<br/>
+현재 스프링부트와 AI 딥러닝을 이용한 서비스 개발을 하고 있습니다.<br/>
 사람들과 고민하고 생각을 나눌 수 있는 협업을 좋아하고 호기심이 많으며,<br/>
 한번 맡은 역할을 무조건 해내야하는 열정😤을 지니고 있습니다.😊<br/>
 <br>
@@ -37,6 +37,7 @@ When I have the opportunity to work as a developer, I always strive to do my bes
 
 <div align="center">
   <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white" alt="Java"/> 
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white" alt="Python"/>
   <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white" alt="Spring"/> 
   <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white" alt="Node.js"/> 
   <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=SpringBoot&logoColor=white" alt="SpringBoot"/> 
