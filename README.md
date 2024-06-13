@@ -36,7 +36,6 @@ When I have the opportunity to work as a developer, I always strive to do my bes
 <br/>
 
 <div align="center">
-<img src="https://img.shields.io/badge/Deep%20Learning-TensorFlow-FF6F00?style=flat-square&logo=TensorFlow&logoColor=white" alt="Deep Learning with TensorFlow"/>
 <br/>
 <br/>
   
