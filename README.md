@@ -47,7 +47,6 @@ When I have the opportunity to work as a developer, I always strive to do my bes
   <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" width="75px"/>
   <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=AmazonAWS&logoColor=white" alt="AWS"/> 
   <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white" alt="Docker"/> 
-  <img src="https://img.shields.io/badge/Amazon_EC2-FF9900?style=flat-square&logo=AmazonEC2&logoColor=white" alt="Amazon EC2"/>
 <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=Firebase&logoColor=white" alt="Firebase"/>
 
 
