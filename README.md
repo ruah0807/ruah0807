@@ -56,7 +56,7 @@
        <img src="https://github-readme-stats.vercel.app/api?username=ruah0807&show_icons=true&theme=synthwave" alt="Anurag's GitHub stats">
     </td>
     <td>
-      <a href="https://github.com/ryanch0/ryanch0">
+      <a href="https://github.com/ruah0807">
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ruah0807&layout=compact&theme=dark" alt="Top Langs">
       </a>
     </td>
