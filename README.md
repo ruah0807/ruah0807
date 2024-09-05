@@ -4,12 +4,12 @@
 
 ### About Me :
 - 능동적으로 학습하고 빠르게 성장하는 신입개발자 김루아입니다🙂
-- A junior developer who is growing fast
-- Processing the tests through the some of framworks.
-- Always excited of my work.
-- Love coorporation and sharing concerns with people, and have a lot of curiocity
-- Have a passion to solve my business no matter what I got. 
-- Always strive to do my best.
+- I'm a junior developer who is growing fast
+- I'm processing work as a AI engineer.
+- I always exciting of my work.
+- I love cooperative work and sharing concerns with people, and have a lot of curiocity
+- I'm a passionated person who solve my business no matter what I got. 
+- I always strive to do my best.
 
 
 ### Tech Stack:
