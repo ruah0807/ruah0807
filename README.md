@@ -9,23 +9,17 @@
 <br/>
 
 
-
-
-### Hello, I'm Ruah! 👋
+### Hello, I'm Ruah Kim! 👋
 <br>
 <div>
-안녕하세요 무섭게 성장하는 신입개발자 김루아입니다.🙂<br/>
-현재 스프링부트와 AI 딥러닝을 이용한 서비스 개발을 하고 있습니다.<br/>
-사람들과 고민하고 생각을 나눌 수 있는 협업을 좋아하고 호기심이 많으며,<br/>
-한번 맡은 역할을 무조건 해내야하는 열정😤을 지니고 있습니다.😊<br/>
+#### 안녕하세요 무섭게 성장하는 신입개발자 김루아입니다.🙂<br/>
 <br>
-
-I'm a junior developer who's grwoing up scary.<br/>
-I'm currently processing the tests through the some of framworks in Java program.<br/>
+I am a junior developer who is growing fast<br/>
+I'm processing the tests through the some of framworks.<br/>
 And I always excited of my work.<br/>
 I love coorporation and sharing concerns with people, and I have a lot of curiocity<br/>
 I have a passion to solve my business no matter what I got. <br/>
-When I have the opportunity to work as a developer, I always strive to do my best.
+I always strive to do my best.
 </div>
 <br/>
 
