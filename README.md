@@ -5,6 +5,7 @@
 
 <br/>
 ## Hi there, I'm Ruah Kim! 👋
+<br/>
 <img width="326" alt="스크린샷 2024-05-02 15 00 13" src="https://github.com/user-attachments/assets/fb0130e0-c63c-4c6c-b92f-041518d36ccb" style="width: 35%; max-width: 300px; min-width:150px" align="right">
 
 <br/>
