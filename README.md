@@ -9,16 +9,16 @@
 <br/>
 
 
-### Hello, I'm Ruah Kim! 👋
+## Hello, I'm Ruah Kim! 👋
 <br>
 <div>
-#### 안녕하세요 무섭게 성장하는 신입개발자 김루아입니다.🙂<br/>
+### 안녕하세요 무섭게 성장하는 신입개발자 김루아입니다.🙂<br/>
 <br>
 I am a junior developer who is growing fast<br/>
 I'm processing the tests through the some of framworks.<br/>
 And I always excited of my work.<br/>
 I love coorporation and sharing concerns with people, and I have a lot of curiocity<br/>
-I have a passion to solve my business no matter what I got. <br/>
+I have a passion to solve my business no matter what I got. <br/>
 I always strive to do my best.
 </div>
 <br/>
