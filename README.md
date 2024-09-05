@@ -6,13 +6,15 @@
   <img src="https://capsule-render.vercel.app/api?type=rect&color=timeGradient&height=200&text=Welcome&fontSize=30"&desc=Desc&descAlign=20 alt="header">
 </div>
 
+
 <br/>
 
+## Hi there, I'm Ruah Kim! 👋
+<img width="542" alt="travel3" src="https://github.com/user-attachments/assets/265b33a1-514b-40b3-a475-f3fe0ffb49c3" style="width: 35%; max-width: 300px; min-width:150px" align="right">
 
-## Hello, I'm Ruah Kim! 👋
 <br>
 <div>
-### 안녕하세요 무섭게 성장하는 신입개발자 김루아입니다.🙂<br/>
+능동적으로 학습하고 빠르게 성장하는 신입개발자 김루아입니다.🙂<br/>
 <br>
 I am a junior developer who is growing fast<br/>
 I'm processing the tests through the some of framworks.<br/>
@@ -23,14 +25,9 @@ I always strive to do my best.
 </div>
 <br/>
 
-<h3 align="center">Tech Stack 📚</h3>
 
-<div align="center">
+### Tech Stack:
 
-<br/>
-
-<div align="center">
-<br/>
 <br/>
   
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white" alt="Python"/>
@@ -58,26 +55,20 @@ I always strive to do my best.
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=Figma&logoColor=white" alt="Figma"/> 
   
 </div>
-</div>
 <br/>
 <br/>
 
+### Contact 📞
 
-<h3 align="center">Contact 📞</h3>
-
-<div align="center">
   <a href="#"><img src="https://img.shields.io/badge/Tech%20Blog-11B48A?style=flat-square&logo=Vimeo&logoColor=white"/></a>&nbsp
   <a href="https://www.instagram.com/ruah0807/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>&nbsp
   <a href="mailto:kimhk0315@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white"/></a>&nbsp
   <a href="https://open.kakao.com/o/Rua.na"><img src="https://img.shields.io/badge/KakaoTalk-FFCD00?style=for-the-badge&logoColor=black&logo=KakaoTalk"></a>
-</div>
 
 <br/>
 
 
-<div align="center">
   <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fruah0807&count_bg=%2376318E&title_bg=%23D5A5A5&icon=quarkus.svg&icon_color=%23E5E4E4&title=hits&edge_flat=false"/></a>
-</div>
 <br/>
 
 <table align="center">
