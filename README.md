@@ -3,13 +3,13 @@
 <img width="326" alt="스크린샷 2024-05-02 15 00 13" src="https://github.com/user-attachments/assets/fb0130e0-c63c-4c6c-b92f-041518d36ccb" style="width: 35%; max-width: 300px; min-width:150px" align="right">
 
 ### About Me :
-능동적으로 학습하고 빠르게 성장하는 신입개발자 김루아입니다.🙂<br/>
-I am a junior developer who is growing fast<br/>
-I'm processing the tests through the some of framworks.<br/>
-And I always excited of my work.<br/>
-I love coorporation and sharing concerns with people, and I have a lot of curiocity<br/>
-I have a passion to solve my business no matter what I got. <br/>
-I always strive to do my best.
+- 능동적으로 학습하고 빠르게 성장하는 신입개발자 김루아입니다🙂
+- A junior developer who is growing fast
+- Processing the tests through the some of framworks.
+- Always excited of my work.
+- Love coorporation and sharing concerns with people, and have a lot of curiocity
+- Have a passion to solve my business no matter what I got. 
+- Always strive to do my best.
 
 
 ### Tech Stack:
