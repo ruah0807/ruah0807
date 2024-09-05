@@ -1,6 +1,6 @@
 ## Hi there, I'm Ruah Kim! 👋
 
-<img width="326" alt="스크린샷 2024-05-02 15 00 13" src="https://github.com/user-attachments/assets/fb0130e0-c63c-4c6c-b92f-041518d36ccb" style="width: 35%; max-width: 300px; min-width:150px" align="right">
+<img width="326" alt="profile" src="https://github.com/user-attachments/assets/6c3f2f9c-42bf-4e99-a9c0-dfcbb4081960" style="width: 35%; max-width: 300px; min-width:150px" align="right">
 
 ### About Me :
 - 🙂 능동적으로 학습하여 빠르게 성장하는 신입개발자 김루아입니다
