@@ -1,23 +1,18 @@
-<br/>
 ## Hi there, I'm Ruah Kim! 👋
-<br/>
+
 <img width="326" alt="스크린샷 2024-05-02 15 00 13" src="https://github.com/user-attachments/assets/fb0130e0-c63c-4c6c-b92f-041518d36ccb" style="width: 35%; max-width: 300px; min-width:150px" align="right">
 
-<br/>
+### About Me :
 능동적으로 학습하고 빠르게 성장하는 신입개발자 김루아입니다.🙂<br/>
-<br/>
 I am a junior developer who is growing fast<br/>
 I'm processing the tests through the some of framworks.<br/>
 And I always excited of my work.<br/>
 I love coorporation and sharing concerns with people, and I have a lot of curiocity<br/>
 I have a passion to solve my business no matter what I got. <br/>
 I always strive to do my best.
-<br/>
 
 
 ### Tech Stack:
-
-<br/>
 <p align="left">
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white" alt="Python"/>
 <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white" alt="Java"/> 
@@ -51,7 +46,7 @@ I always strive to do my best.
 </p>
 
 <p align=right>
-  <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fruah0807&count_bg=%2376318E&title_bg=%23D5A5A5&icon=quarkus.svg&icon_color=%23E5E4E4&title=hits&edge_flat=false"/></a>
+<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fruah0807&count_bg=%2376318E&title_bg=%23D5A5A5&icon=quarkus.svg&icon_color=%23E5E4E4&title=hits&edge_flat=false"/></a>
 <br/>
 </p>
 
