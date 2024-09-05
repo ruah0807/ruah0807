@@ -29,7 +29,7 @@ I always strive to do my best.
 ### Tech Stack:
 
 <br/>
-  
+<p align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white" alt="Python"/>
   <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white" alt="Java"/> 
   <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=SpringBoot&logoColor=white" alt="SpringBoot"/> 
@@ -40,8 +40,6 @@ I always strive to do my best.
   <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white" alt="Docker"/> 
 <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=Firebase&logoColor=white" alt="Firebase"/>
 
-
-<br/>  
 <br/>
   <img src="https://img.shields.io/badge/Thymeleaf-005F0F?style=flat-square&logo=Thymeleaf&logoColor=white" alt="Thymeleaf"/> 
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black" alt="JavaScript"/> 
@@ -53,9 +51,8 @@ I always strive to do my best.
   <br/>
 
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=Figma&logoColor=white" alt="Figma"/> 
+</p>
   
-</div>
-<br/>
 <br/>
 
 ### Contact 📞
@@ -67,10 +64,10 @@ I always strive to do my best.
 
 <br/>
 
-
+<div align=right>
   <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fruah0807&count_bg=%2376318E&title_bg=%23D5A5A5&icon=quarkus.svg&icon_color=%23E5E4E4&title=hits&edge_flat=false"/></a>
 <br/>
-
+</div>
 <table align="center">
   <tr>
     <td>
