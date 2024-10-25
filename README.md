@@ -3,7 +3,7 @@
 <img width="565" alt="image" src="https://github.com/user-attachments/assets/ebcc015e-10e1-4501-9cef-0def5733ea6a" style="width: 35%; max-width: 300px; min-width:150px" align="right">
 
 ### About Me :
-- 🙂 능동적으로 학습하여 빠르게 성장하는 신입개발자 김루아입니다
+- 🙂 능동적으로 학습하여 빠르게 성장하는 주니어개발자 김루아입니다
 - 📖I'm a active junior developer who is growing fast
 - 🤖I'm processing work as a AI engineer.
 - 😆I always exciting of my work.
