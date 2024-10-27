@@ -56,7 +56,7 @@
 <table align="center">
   <tr>
     <td>
-       <img src="https://github-readme-stats.vercel.app/api?username=ruah0807&show_icons=true&theme=synthwave" alt="Anurag's GitHub stats">
+       <img src="https://github-readme-stats.vercel.app/api?username=ruah0807&show_icons=true&theme=dark" alt="Anurag's GitHub stats">
     </td>
     <td>
       <a href="https://github.com/ruah0807">
