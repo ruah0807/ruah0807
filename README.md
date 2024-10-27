@@ -60,7 +60,7 @@
     </td>
     <td>
       <a href="https://github.com/ruah0807">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ruah0807&layout=compact&theme=dark&hide=jupyter%20notebook" alt="Top Langs">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ruah0807&layout=compact&theme=dark&hide=jupyter%20notebook,c%2B%2B,cmake" alt="Top Langs">
       </a>
     </td>
   </tr>
