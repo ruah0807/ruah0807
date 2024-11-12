@@ -3,13 +3,13 @@
 <img width="565" alt="image" src="https://github.com/user-attachments/assets/ebcc015e-10e1-4501-9cef-0def5733ea6a" style="width: 35%; max-width: 300px; min-width:150px" align="right">
 
 ### About Me :
-- 🙂 능동적으로 학습하여 빠르게 성장하는 주니어개발자 김루아입니다
-- 📖I'm a active junior developer who is growing fast
-- 🤖I'm processing work as an AI engineer.
-- 😆I always exciting of my work.
-- 👬I love cooperative work and sharing concerns with people, and have a lot of curiocity
-- 🔥I'm a passionated person who solve my business no matter what I got. 
-- ❤️‍🔥I always strive to do my best.
+- 🙂 능동적으로 학습하는 개발자 김루아입니다
+- 📖 I'm a active junior developer who is growing fast
+- 🤖 I'm processing work as an AI engineer.
+- 😆 I always exciting of my work.
+- 👬 I love cooperative work and sharing concerns with people, and have a lot of curiocity
+- 🔥 I'm a passionated person who solve my business no matter what I got. 
+- ❤️‍🔥 I always strive to do my best.
 - 📫 How to reach me: kimhk0315@gmail.com
 
 
