@@ -4,7 +4,6 @@
 
 ### About Me :
 - 🙂 능동적으로 학습하는 개발자 김루아입니다
-- 📖 I'm a active junior developer who is growing fast
 - 🤖 I'm processing work as an AI engineer.
 - 😆 I always exciting of my work.
 - 👬 I love cooperative work and sharing concerns with people, and have a lot of curiocity
