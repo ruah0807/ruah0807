@@ -10,7 +10,7 @@
 - 🔥 I'm a passionated person who solve my business no matter what I got. 
 - ❤️‍🔥 I always strive to do my best.
 - 📫 How to reach me: kimhk0315@gmail.com
-- 🧐 Here's my blog : <a href='https://velog.io/@looa0807/posts'>Velog</a>;
+- 🧐 Here's my blog : <a href='https://velog.io/@looa0807/posts'>Velog</a>
 
 
 <br/>
